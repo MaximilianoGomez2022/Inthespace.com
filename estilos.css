@@ -208,6 +208,12 @@ max-height: 315px;
 
 iframe {
 max-width: 100%;
+width: 100%;
+height: 100%;
+}
+
+.video-section figure {
+    margin: auto;
 }
 
 
@@ -233,8 +239,6 @@ max-width: 100%;
         background-size: cover;
         background-repeat: no-repeat;
     }
-
-    
 
 
     footer {
@@ -288,6 +292,10 @@ max-width: 100%;
     #miselaña2 section article {
         margin-bottom: 50px;
     }
+
+    iframe {
+        min-width: 100%;
+        }
 
     
    
