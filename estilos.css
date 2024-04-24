@@ -12,11 +12,11 @@
 
 header {
     position: relative;
-    max-width: 1400px;
+    max-width: 1920px;
 }
 
 #banners {
-    max-width: 1400px;
+    max-width: 1920px;
 }
 
 
@@ -72,7 +72,7 @@ img {
     background-position: top;
     height: 1100px;
     background-size: cover;
-    max-width: 1400px;
+    max-width: 1920px;
     overflow: hidden;
 
 }
@@ -93,7 +93,7 @@ img {
 
 #miselaña2 {
     height: 2000px;
-    max-width: 1400px;
+    max-width: 1920px;
     background-image: url(imagenes/section3-15-15.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -191,7 +191,7 @@ aside h2 {
 footer {
     padding-top: 40px;
     padding-bottom: 40px;
-    max-width: 1400px;
+    max-width: 1920px;
     margin: auto;
 }
 
